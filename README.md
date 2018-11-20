@@ -1,2 +1,2 @@
 # Pacman
-## siki 贪吃蛇Demo
+## siki 吃豆人Demo
